@@ -9,7 +9,7 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/appnamelogo"
         android:supportsRtl="true"
         android:theme="@style/Theme.TestPolarisense"
         tools:targetApi="31">
@@ -17,7 +17,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="AppNameLogo"
-            android:theme="@style/Theme.App.SplashScreen">
+            android:theme="@style/Theme.App.Starting">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
