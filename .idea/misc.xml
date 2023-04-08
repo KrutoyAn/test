@@ -4,11 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/button_green.xml" value="0.1425" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/buttonselector.xml" value="0.134" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/ic_appnamelogo.xml" value="0.1" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1185" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/ic_launcher_logo_background.xml" value="0.1" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/launch_screen.xml" value="0.269" />
-        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/layout/activity_main.xml" value="0.17050691244239632" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/rounded_button.xml" value="0.23" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/rounded_button_f_m.xml" value="0.1425" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/drawable/rounded_button_next.xml" value="0.18" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/layout/fragment_info_user.xml" value="0.25" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1665" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo.xml" value="0.1" />
         <entry key="..\:/Android_Projects/TestPolarisense/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo_round.xml" value="0.1" />
